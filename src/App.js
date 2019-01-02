@@ -4,6 +4,7 @@ import Header from './components/layout/Header';
 import Contacts from './components/contacts/Contacts';
 import AddContact from "./components/contacts/AddContact";
 import About from './components/pages/About';
+import NotFound from './components/pages/NotFound';
 
 import { Provider } from './context';
 
@@ -22,6 +23,7 @@ class App extends Component {
                 <Route exact path="/" component={Contacts} />
                 <Route path="/about" component={About} />
                 <Route path="/contact/add" component={AddContact} />
+                <Route component={NotFound} />
               </Switch>
             </div>
           </div>
