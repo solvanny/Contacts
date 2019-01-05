@@ -1,15 +1,15 @@
 {
-  "main.css": "/Contacts/static/css/main.308320c5.chunk.css",
-  "main.js": "/Contacts/static/js/main.8fa7c77e.chunk.js",
-  "main.js.map": "/Contacts/static/js/main.8fa7c77e.chunk.js.map",
-  "static/css/1.9b7272ed.chunk.css": "/Contacts/static/css/1.9b7272ed.chunk.css",
-  "static/js/1.a6b0b507.chunk.js": "/Contacts/static/js/1.a6b0b507.chunk.js",
-  "static/js/1.a6b0b507.chunk.js.map": "/Contacts/static/js/1.a6b0b507.chunk.js.map",
-  "runtime~main.js": "/Contacts/static/js/runtime~main.05ac3b2a.js",
-  "runtime~main.js.map": "/Contacts/static/js/runtime~main.05ac3b2a.js.map",
-  "static/css/1.9b7272ed.chunk.css.map": "/Contacts/static/css/1.9b7272ed.chunk.css.map",
-  "static/css/main.308320c5.chunk.css.map": "/Contacts/static/css/main.308320c5.chunk.css.map",
-  "index.html": "/Contacts/index.html",
-  "precache-manifest.4993da2c9cf4230267d8311eb039f492.js": "/Contacts/precache-manifest.4993da2c9cf4230267d8311eb039f492.js",
-  "service-worker.js": "/Contacts/service-worker.js"
+  "main.css": "/contacts/static/css/main.308320c5.chunk.css",
+  "main.js": "/contacts/static/js/main.a0cea9fe.chunk.js",
+  "main.js.map": "/contacts/static/js/main.a0cea9fe.chunk.js.map",
+  "static/css/1.9b7272ed.chunk.css": "/contacts/static/css/1.9b7272ed.chunk.css",
+  "static/js/1.a6b0b507.chunk.js": "/contacts/static/js/1.a6b0b507.chunk.js",
+  "static/js/1.a6b0b507.chunk.js.map": "/contacts/static/js/1.a6b0b507.chunk.js.map",
+  "runtime~main.js": "/contacts/static/js/runtime~main.05afaf23.js",
+  "runtime~main.js.map": "/contacts/static/js/runtime~main.05afaf23.js.map",
+  "static/css/1.9b7272ed.chunk.css.map": "/contacts/static/css/1.9b7272ed.chunk.css.map",
+  "static/css/main.308320c5.chunk.css.map": "/contacts/static/css/main.308320c5.chunk.css.map",
+  "index.html": "/contacts/index.html",
+  "precache-manifest.c8b6f60e306a79e4918ae9512cfb16de.js": "/contacts/precache-manifest.c8b6f60e306a79e4918ae9512cfb16de.js",
+  "service-worker.js": "/contacts/service-worker.js"
 }
