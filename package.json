@@ -2,7 +2,7 @@
   "name": "contact-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://solvanny.github.io/Contacts",
+  "homepage": "https://solvanny.github.io/contacts",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.2.1",
