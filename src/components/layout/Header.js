@@ -19,12 +19,12 @@ const Header = props => {
           </li>
           <li className="nav-item">
             <Link to="/contact/add" className="nav-link">
-              <i class="fas fa-plus-circle"></i> Add
+              <i className="fas fa-plus-circle"></i> Add
             </Link>
           </li>
           <li className="nav-item">
             <Link to="/about" className="nav-link">
-              <i class="far fa-question-circle"></i> About
+              <i className="far fa-question-circle"></i> About
             </Link>
           </li>
         </ul>
