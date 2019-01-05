@@ -1,15 +1,15 @@
 {
-  "main.css": "/github.io/Contacts/static/css/main.308320c5.chunk.css",
-  "main.js": "/github.io/Contacts/static/js/main.a98ca5a2.chunk.js",
-  "main.js.map": "/github.io/Contacts/static/js/main.a98ca5a2.chunk.js.map",
-  "static/css/1.9b7272ed.chunk.css": "/github.io/Contacts/static/css/1.9b7272ed.chunk.css",
-  "static/js/1.a6b0b507.chunk.js": "/github.io/Contacts/static/js/1.a6b0b507.chunk.js",
-  "static/js/1.a6b0b507.chunk.js.map": "/github.io/Contacts/static/js/1.a6b0b507.chunk.js.map",
-  "runtime~main.js": "/github.io/Contacts/static/js/runtime~main.e9012c43.js",
-  "runtime~main.js.map": "/github.io/Contacts/static/js/runtime~main.e9012c43.js.map",
-  "static/css/1.9b7272ed.chunk.css.map": "/github.io/Contacts/static/css/1.9b7272ed.chunk.css.map",
-  "static/css/main.308320c5.chunk.css.map": "/github.io/Contacts/static/css/main.308320c5.chunk.css.map",
-  "index.html": "/github.io/Contacts/index.html",
-  "precache-manifest.569ae1013ec347afd5e5aaa53a02d1d4.js": "/github.io/Contacts/precache-manifest.569ae1013ec347afd5e5aaa53a02d1d4.js",
-  "service-worker.js": "/github.io/Contacts/service-worker.js"
+  "main.css": "/Contacts/static/css/main.308320c5.chunk.css",
+  "main.js": "/Contacts/static/js/main.8fa7c77e.chunk.js",
+  "main.js.map": "/Contacts/static/js/main.8fa7c77e.chunk.js.map",
+  "static/css/1.9b7272ed.chunk.css": "/Contacts/static/css/1.9b7272ed.chunk.css",
+  "static/js/1.a6b0b507.chunk.js": "/Contacts/static/js/1.a6b0b507.chunk.js",
+  "static/js/1.a6b0b507.chunk.js.map": "/Contacts/static/js/1.a6b0b507.chunk.js.map",
+  "runtime~main.js": "/Contacts/static/js/runtime~main.05ac3b2a.js",
+  "runtime~main.js.map": "/Contacts/static/js/runtime~main.05ac3b2a.js.map",
+  "static/css/1.9b7272ed.chunk.css.map": "/Contacts/static/css/1.9b7272ed.chunk.css.map",
+  "static/css/main.308320c5.chunk.css.map": "/Contacts/static/css/main.308320c5.chunk.css.map",
+  "index.html": "/Contacts/index.html",
+  "precache-manifest.4993da2c9cf4230267d8311eb039f492.js": "/Contacts/precache-manifest.4993da2c9cf4230267d8311eb039f492.js",
+  "service-worker.js": "/Contacts/service-worker.js"
 }
